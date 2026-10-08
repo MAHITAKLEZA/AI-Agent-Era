@@ -1,0 +1,6 @@
+flask>=3.0
+requests>=2.31
+beautifulsoup4>=4.12
+python-dotenv>=1.0
+# Optional: lets the crawler handle sites whose firewall blocks crawlers (then run: python -m playwright install chromium)
+playwright>=1.40
